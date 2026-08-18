@@ -1,1 +1,1 @@
-# GETachi!
+# GETachi
